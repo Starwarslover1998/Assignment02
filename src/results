@@ -1,3 +1,4 @@
+Question 1 
 Test 1 (.getAvenue() > 0) Results: True
 Test 2 (.getAvenue() <= 5) results: True
 test 3 (.getStreet() != 1) results: false
@@ -6,3 +7,5 @@ test 5 (.frontIsClear()) results: False
 test 6 (!this.frontIsClear()) results: True
 test 7 (!!this.frontIsClear()) results: False
 test 8 (.frontIsClear() == false) results: true
+Question 2
+the if statements would do the exact opposite of each other because their actions are swapped
